@@ -28,6 +28,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vitejs](https://vitejs.dev/)
+- [tailwindcss](https://tailwindcss.com/)
 </div>
 
 <p align="center"> • <a href="#techs">Tecnologias</a> •  <a href="http://github.com/rafa-carmo">Autor</a>  </p>
